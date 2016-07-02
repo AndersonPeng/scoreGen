@@ -9,7 +9,7 @@ Score generator for estimating notes by using FFT, HPS, deep neural network and 
 * pyaudio
 
 #### Execution
-  python main.py
+    python main.py
   
 #### Building an executable file with cx_freeze
-  python setup.py build
+    python setup.py build
